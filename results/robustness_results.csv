@@ -1,0 +1,5 @@
+specification,cloud_coefficient,t_stat,outcome
+Exclude micro-caps,-0.0089,-2.07,Robust
+Add VIX interaction,-0.0104,-2.61,Amplified
+Include lagged weather,-0.0091,-2.39,Short-lived
+Add sentiment control,-0.0045,-1.88,Attenuated

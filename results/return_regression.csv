@@ -1,0 +1,6 @@
+variable,coefficient,t_stat,significance
+Intercept,0.041,3.87,***
+Cloud Cover,-0.0093,-2.71,**
+Rainfall,-0.0034,-1.94,*
+Temperature,0.0002,0.18,n.s.
+Sunlight Hours,0.0108,2.46,**
